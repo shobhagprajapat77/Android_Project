@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic tac toe</string>
+    <string name="heading">Welcome to tic tac toe</string>
+    <string name="grid">GridImage</string>
+    <string name="status">X turn Tap to Play</string>
+    <string name="developer">Developed by Shobhag Prajapat</string>
+
+</resources>
